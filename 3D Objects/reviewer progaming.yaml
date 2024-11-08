@@ -1,0 +1,80 @@
+ Review:
+ Python Operators
+
+ Arithmetic Operators
+  + (Addition):  Adds two numbers.
+  - (Subtraction):  Subtracts one number from another.
+  * (Multiplication):  Multiplies two numbers.
+  / (Division):  Divides one number by another.
+  % (Modulus):  Returns the remainder of a division operation.
+  **** (Exponentiation):  Raises a number to a power.
+  // (Floor Division):  Divides two numbers and rounds down to the nearest integer.
+
+ Assignment Operators:
+
+  = (Assignment):  Assigns a value to a variable.
+  += (Add and Assign):  Adds a value to a variable and assigns the result.
+  -= (Subtract and Assign):  Subtracts a value from a variable and assigns the result.
+  *= = (Multiply and Assign):  Multiplies a variable by a value and assigns the result.
+  /= (Divide and Assign):  Divides a variable by a value and assigns the result.
+  %= (Modulus and Assign):  Calculates the modulus of a variable with a value and assigns the result.
+  ** = (Exponentiation and Assign):  Raises a variable to a power and assigns the result.
+  //= (Floor Division and Assign):  Performs floor division on a variable with a value and assigns the result.
+
+ Comparison Operators
+
+
+  = = (Equal to):  Checks if two values are equal.
+  != (Not Equal to):  Checks if two values are not equal.
+  > (Greater Than):  Checks if one value is greater than another.
+  < (Less Than):  Checks if one value is less than another.
+  >= (Greater Than or Equal to): Checks if one value is greater than or equal to another.
+  <= (Less Than or Equal to): Checks if one value is less than or equal to another.
+
+ Logical Operators:
+
+ and (Logical AND): Returns True if both operands are True.
+  or (Logical OR): Returns True if at least one operand is True.
+  not (Logical NOT): Inverts the truth value of an operand.
+
+ Identity Operators:
+ 
+  is (Identity): Checks if two objects are the same object.
+  is not (Not Identity): Checks if two objects are not the same object.
+
+ Membership Operators:
+
+  in (Membership): Checks if a value is present in a sequence.
+  not in (Not Membership): Checks if a value is not present in a sequence.
+
+ Bitwise Operators:
+  & (Bitwise AND)
+
+  | (Bitwise OR)
+  ^ (Bitwise XOR)
+  ~ (Bitwise NOT)
+  << (Left Shift)
+  >> (Right Shift)
+
+
+ Python Data Types:
+
+ Numeric Types:
+  int: Represents integer numbers (e.g., 10, -5, 0)
+  float: Represents floating-point numbers (e.g., 3.14, -2.5)
+  complex: Represents complex numbers (e.g., 2+3j)
+
+  Boolean Type:
+  bool: Represents Boolean values (True or False)
+
+  Sequence Types:
+  str: Represents strings (sequences of characters)
+  list: Represents ordered collections of items (mutable)
+  tuple: Represents ordered collections of items (immutable)
+  range: Represents a sequence of numbers
+  
+  Mapping Type:
+  dict: Represents key-value pairs
+  Set Types:
+  set: Represents unordered collections of unique items
+  frozenset: Represents immutable sets
